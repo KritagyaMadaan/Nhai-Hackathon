@@ -1,0 +1,2 @@
+﻿App.tsx(181,19): error TS2551: Property 'absoluteFillObject' does not exist on type 'typeof StyleSheet'. Did you mean 'absoluteFill'?
+src/ml/workers/useFaceDetector.ts(19,18): error TS2554: Expected 2 arguments, but got 1.
